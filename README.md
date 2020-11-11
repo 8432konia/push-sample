@@ -8,3 +8,6 @@ docker run -d -p 80:80 --name push-container push-image
 docker stop push-container
 docker rm push-container
 ```
+
+### 確認画面
+http://localhost
